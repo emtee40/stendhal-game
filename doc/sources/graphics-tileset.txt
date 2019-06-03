@@ -18,18 +18,19 @@ house_greenish_stone.png      ???; ???; ???
 house_light_brick.png         ???; ???; ???
 house_light_tan.png           ???; ???; ???
 house_pink_blue.*             Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
-house_redbrick_greenroof.png  ???; ???; ???
 house_stone.png               ???; ???; ???
 huts.*                        ???; ???; ???
 ice_tower.png                 ???; ???; ???
 life_tower.png                ???; ???; ???
+mill.png                      bleutailfly; CC BY-SA 3.0; Stendhal
 museum.*                      Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
 outhouse.png                  ???; ???; ???
 stone_ruins.*                 Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
 stone_tower.png               Remos Turcuman (Bleed); CC BY 3.0; https://opengameart.org/node/61012; Bleed's Game Art - http://remusprites.carbonmade.com
 tan_building.png              Lanea Zimmerman (Sharm); OGA BY 3.0; https://opengameart.org/node/17502
 thatched_roof_cottage*        Lanea Zimmerman (Sharm), Daniel Armstrong (HughSpectrum), bluecarrot16, Tuomo Untinen (Reemax); CC BY-SA 3.0; https://opengameart.org/node/41379, https://opengameart.org/node/41378, https://opengameart.org/node/35455
-tower_chalet.png              ???; ???; ???
+tower_chalet.*                Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
+windmill_blades.png           bleutailfly; CC BY-SA 3.0; Stendhal
 witch_hut.*                   ???; ???; ???
 wizards_tower.png             ???; ???; ???
 
@@ -213,10 +214,13 @@ ornamental_border.png            ???; ???; ???
 stone.png                        ???; ???; ???
 stone2.png                       ???; ???; ???
 stone_grey.png                   ???; ???; ???
+wallpapers.png                   bleutailfly; CC BY-SA 3.0; Stendhal
 walls_siding.png                 bleutailfly; CC BY-SA 3.0; Stendhal
 wall_brown.png                   ???; ???; ???
+white_trim.png                   bleutailfly; CC BY-SA 3.0; Stendhal
 wood.png                         ???; ???; ???
 wood_2.png                       ???; ???; ???
+wood_trim.png                    bleutailfly; CC BY-SA 3.0; Stendhal
 
 tiled/tileset/building/window/
 
@@ -309,10 +313,12 @@ colorful.png               bleutailfly; CC BY-SA 3.0; Stendhal
 greenish_grey.png          ???; ???; ???
 sofa.png                   bleutailfly; CC BY-SA 3.0; Stendhal
 sofa_2.png                 ???; ???; ???
+sofa_brown.png             bleutailfly; CC BY-SA 3.0; Stendhal
 sofa_chair*                bleutailfly; CC BY-SA 3.0; Stendhal
 sofa_cream.png             bleutailfly; CC BY-SA 3.0; Stendhal
+sofa_grey.png              bleutailfly; CC BY-SA 3.0; Stendhal
 sofa_red.png               bleutailfly; CC BY-SA 3.0; Stendhal
-sofa_shadow.png            ???; ???; ???
+sofa_shadow.png            bleutailfly; CC BY-SA 3.0; Stendhal
 stool.png                  bleutailfly; CC BY-SA 3.0; Stendhal
 throne.png                 ???; ???; ???
 throne_small.png           ???; ???; ???
@@ -679,6 +685,8 @@ button_grey.png           ???; ???; ???
 buzzing_bees.png          ???; ???; ???
 campfires.*               Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
 campfire_snow.png         ???; ???; ???
+caution_ns.png            bleutailfly; CC BY-SA 3.0; Stendhal
+caution_sign.png          bleutailfly; CC BY-SA 3.0; Stendhal
 chapter.png               ???; ???; ???
 firewood.*                Kimmo Rundelin (kiheru), bleutailfly; CC BY-SA 3.0; Stendhal
 fishing_nets.*            Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
@@ -924,6 +932,11 @@ lace.png               bleutailfly; CC BY-SA 3.0; Stendhal
 large_dress.png        ???; ???; ???
 laundry.*              Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
 red_hat.png            ???; ???; ???
+throw_1.png            bleutailfly; CC BY-SA 3.0; Stendhal
+throw_2.png            bleutailfly; CC BY-SA 3.0; Stendhal
+throw_3.png            bleutailfly; CC BY-SA 3.0; Stendhal
+throw_4.png            bleutailfly; CC BY-SA 3.0; Stendhal
+throw_pillows.png      bleutailfly; CC BY-SA 3.0; Stendhal
 towels.png             bleutailfly; CC BY-SA 3.0; Stendhal
 trousers.png           ???; ???; ???
 
@@ -1147,6 +1160,7 @@ small_flower_bed.*      Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
 small_flower_bed_2.*    Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
 small_purple_white.png  ???; ???; ???
 stone_edge_beds.png     ???; ???; ???
+vines_flowered.png      bleutailfly; CC BY-SA 3.0; Stendhal
 
 tiled/tileset/plant/indoor/
 
@@ -1247,8 +1261,10 @@ white_clouds.png   ???; ???; ???
 
 tiled/tileset/terrain/
 
-cave.png    ???; ???; ???
-desert.png  Rayane Félix (RayaneFLX); CC BY-SA 3.0; https://opengameart.org/node/70104
+cave.png        Jordan Irwin (AntumDeluge); CC0; https://opengameart.org/node/82635
+dark_caves.png  Rayane Félix (RayaneFLX), ???; ???; https://opengameart.org/node/70104
+desert.png      Rayane Félix (RayaneFLX); CC BY-SA 3.0; https://opengameart.org/node/70104
+grassland.png   Rayane Félix (RayaneFLX), ???; ???; https://opengameart.org/node/70104
 
 tiled/tileset/terrain/ground/
 

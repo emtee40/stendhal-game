@@ -151,7 +151,7 @@ littlefairy.*   Svetlana Kushnariova (Cabbit), Fabzy, leangoro, olonu; CC BY-SA 
 
 data/sprites/monsters/farm_animal/
 
-beaver.png       ???; ???; ???
+beaver.png       bleutailfly; CC BY-SA 3.0; Stendhal
 bull.*           Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
 chick.*          Shepardskin, Jordan Irwin (AntumDeluge); CC0; https://opengameart.org/node/76895
 cow.*            Kimmo Rundelin (kiheru); CC BY-SA 3.0; Stendhal
@@ -245,7 +245,12 @@ twin_head_dragon.png      ZaPaper, Jordan Irwin (AntumDeluge); CC BY 3.0; https:
 data/sprites/monsters/human/
 
 apprentice_assassin.png    Svetlana Kushnariova (Cabbit), onu/olonu; OGA BY 3.0; https://sourceforge.net/p/arianne/patches/717/
+armored_captain.png        ???; ???; ???
+armored_elite.png          ???; ???; ???
+armored_general.png        ???; ???; ???
+armored_infantry.png       ???; ???; ???
 armored_leader.png         Svetlana Kushnariova (Cabbit), Eldiran, Jordan Irwin (AntumDeluge); OGA BY 3.0; https://opengameart.org/node/87473
+armored_soldier.png        ???; ???; ???
 armored_warrior.png        Svetlana Kushnariova (Cabbit), Eldiran, Jordan Irwin (AntumDeluge); OGA BY 3.0; https://opengameart.org/node/87473
 assassin.*                 Svetlana Kushnariova (Cabbit), diamonddmgirl, olonu; OGA BY 3.0; https://opengameart.org/node/72969, https://opengameart.org/node/83661
 bandit.png                 Svetlana Kushnariova (Cabbit), diamonddmgirl, olonu; OGA BY 3.0; https://opengameart.org/node/72969, https://opengameart.org/node/83661
@@ -260,6 +265,7 @@ blordrough.xcf.bz2         Svetlana Kushnariova (Cabbit), Eldiran, Jordan Irwin 
 cannibal.*                 Svetlana Kushnariova (Cabbit), Jordan Irwin (AntumDeluge); OGA BY 3.0; https://opengameart.org/node/72969
 cannibalwoman.*            Svetlana Kushnariova (Cabbit), Jordan Irwin (AntumDeluge); OGA BY 3.0; https://opengameart.org/node/72969
 darkmonk.png               Svetlana Kushnariova (Cabbit), onu/olonu; OGA BY 3.0; https://github.com/arianne/stendhal/issues/124
+deniran_stormtrooper.*     ???; ???; ???
 elder_cannibal.*           Svetlana Kushnariova (Cabbit), Jordan Irwin (AntumDeluge); OGA BY 3.0; https://opengameart.org/node/72969
 emperor_dalmung.*          Svetlana Kushnariova (Cabbit), wulax, DkuCook, olonu, Jordan Irwin (AntumDeluge); CC BY-SA 3.0; https://opengameart.org/node/72969, https://opengameart.org/node/11165, https://opengameart.org/node/82451
 hunter.*                   ???, Svetlana Kushnariova, olonu; ???; https://opengameart.org/node/72969, https://opengameart.org/node/66349
